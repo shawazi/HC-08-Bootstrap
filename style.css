@@ -1,0 +1,36 @@
+.main-page {
+    background-image: url("./img/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    height: 100vh;
+    padding-top: 15%;
+    text-shadow: 2px 2px 2px violet;
+}
+    
+.collapse, .navbar-collapse {
+    text-align: right;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    display: flex;
+
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.about-img {
+    object-fit: cover;
+}
