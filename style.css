@@ -132,8 +132,9 @@ nav {
     height: 50%;
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
     .form-control {
       width: 100%;
     }
-  }
+  } */
+
