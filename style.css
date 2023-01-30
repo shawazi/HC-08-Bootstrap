@@ -129,7 +129,13 @@ nav {
 }
 
 .logos img {
-    height: 50%;
+  width: 100px;
+  height: auto;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-around;
 }
 
 /* @media only screen and (max-width: 768px) {
