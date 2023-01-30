@@ -138,10 +138,19 @@ nav {
   justify-content: space-around;
 }
 
-/* @media only screen and (max-width: 768px) {
-    .form-control {
-      width: 100%;
-    }
+@media (max-width: 992px) {
+  #go-right {
+    margin-top: 20px;
+    float: none;
+  }
+
+  /* #contact {
+    display: flex;
+    justify-content: center;
+    
   } */
+}
 
 /* the contact form is becoming demented when the page is minimized to a cell-phone sized screen. media query didn't fix it, so there must be some issue with my code */
+
+/* This media query is working okay, but I need to finetune the output because it's imperfect and not centered. */
