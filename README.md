@@ -6,7 +6,7 @@ https://shawazi.github.io/HC-08-Bootstrap/
 
 to-do: 
 
-the form elements are not responsive (in cellpone mode, the form input fields are pushed together and overlapping each other).
+the form elements are not responsive (in cellphone mode, the form input fields are pushed together and overlapping each other).
 
 the hamburger menu is way too wide when it opens.
 
